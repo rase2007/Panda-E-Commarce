@@ -17,3 +17,32 @@ border-radius: 8px;
 padding: 9px 25px;
 cursor: pointer;
 }
+.cat1, .cat2, .cat3{padding: 10px 30px;
+border-radius: 15px;
+}
+.cat1{ background-color: orangered;
+    
+}
+.cat2{background-color: purple;
+}
+.cat3{background-color: cyan;}
+
+.catagories h1{
+    color: white;
+
+}
+.catagories img{ width:100px}
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px lightgray;
+}
+.card-footer{background-color: white;
+border-top: none;
+}
+#subscribe{
+height: 300px;
+
+}
+
+#subscribe h6{ color: gray;}
+footer{ text-align: center;}
